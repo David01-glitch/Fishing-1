@@ -1,0 +1,10 @@
+{
+  "name": "Fishing & Outdoor Club",
+  "description": "A premium outdoor adventure and nature lifestyle magazine built with React, Vite, Tailwind, and Framer Motion.",
+  "repository": "https://github.com/David01-glitch/Fishing-1",
+  "keywords": ["react", "vite", "tailwind", "framer-motion", "outdoor", "fishing", "camping"],
+  "env": {
+    "NODE_ENV": { "value": "production" }
+  },
+  "buildpacks": [{ "url": "heroku/nodejs" }]
+}
